@@ -1,0 +1,13 @@
+.MapContainer {
+  text-align: center;
+  height: 90%;
+}
+
+.InfoWindow{
+  text-align: left;
+}
+
+.Button{
+  position: absolute;
+  z-index: 500;
+}
